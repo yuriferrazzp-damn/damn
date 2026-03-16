@@ -12,7 +12,7 @@
 
 ##  Como testar
 1. Baixe a ISO oficial (link no site).
-2. Use o **Rufus** (Modo DD) para gravar em um pendrive.
+2. Use o **Rufus** para gravar em um pendrive.
 3. Dê boot e selecione a opção **"Try Kubuntu"** para rodar direto da RAM sem instalar nada.
 
 ##  Estrutura do Projeto
