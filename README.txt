@@ -1,6 +1,6 @@
 # damnOS 
 
-**damnOS** é uma distribuição Linux baseada em Kubuntu, otimizada para máxima performance em jogos e produtividade técnica. Este sistema foi construído para ser leve, rápido e pronto para o uso imediato de ferramentas como Steam e Lutris.
+"Damn" é uma distribuição Linux baseada em Kubuntu, otimizada para máxima performance em jogos e produtividade técnica. Este sistema foi construído para ser leve, rápido e pronto para o uso imediato de ferramentas como Steam e Lutris.
 
 
 
